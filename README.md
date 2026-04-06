@@ -12,7 +12,7 @@ Atualmente, tenho 21 anos e estudo **Desenvolvimento Full-Stack** no Senac São 
 
 ---
 
-### 💻 Minha Toolbox (Habilidades em que estou trabalhando):
+### 💻 Toolbox (em andamento):
 
 **Front-end**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
