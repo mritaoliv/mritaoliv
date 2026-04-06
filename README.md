@@ -1,6 +1,6 @@
 # Olá, me chamo Maria Rita!👽
 
-Atualmente, estudo **Desenvolvimento Full-Stack** no Senac São Paulo. Estou no caminho para aprender como transformar ideias em soluções digitais completas, cuidando de cada detalhe, desde o rascunho do protótipo até a publicação do código.
+Atualmente, tenho 21 anos e estudo **Desenvolvimento Full-Stack** no Senac São Paulo. Estou no caminho para aprender como transformar ideias em soluções digitais completas, cuidando de cada detalhe, desde o rascunho do protótipo até a publicação do código.
 
 ---
 
