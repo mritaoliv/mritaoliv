@@ -1,5 +1,7 @@
-# Hi there 👋
-
+# Olá!
+### Me chamo Maria Rita, tenho 21 anos e atualmente sou estudante de Desenvolvimento Full Stack no Senac SP. 
+#### Minhas atuais habilidades consistem em:
+- HTML, CSS, JavaScript, React.JS
 <!--
 **mritadev/mritadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
