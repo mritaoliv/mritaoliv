@@ -1,3 +1,11 @@
+<div>
+<p>
+<a href="">
+<img src="https://github.com/mritaoliv/mritaoliv/blob/main/img/jjktrio.jpg?raw=true" width="100%" height="auto"/>
+</a>
+</p>
+</div>
+
 # Olá, me chamo Maria Rita!👽
 
 Atualmente, tenho 21 anos e estudo **Desenvolvimento Full-Stack** no Senac São Paulo. Estou no caminho para aprender como transformar ideias em soluções digitais completas, cuidando de cada detalhe, desde o rascunho do protótipo até a publicação do código.
