@@ -1,7 +1,7 @@
 <div>
 <p>
 <a href="">
-<img src="https://github.com/mritaoliv/mritaoliv/blob/main/img/stl.jpg?raw=true" width="100%" height="auto"/>
+<img src="https://github.com/mritaoliv/mritaoliv/blob/main/img/shima.jpg?raw=true" width="100%" height="auto"/>
 </a>
 </p>
 </div>
