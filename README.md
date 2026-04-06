@@ -43,8 +43,8 @@ Atualmente, tenho 21 anos e estudo **Desenvolvimento Full-Stack** no Senac São 
 
 ### 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[mritaoliv]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[mritaoliv]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mritaoliv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mritaoliv&layout=compact&theme=radical)
 
 ---
 
