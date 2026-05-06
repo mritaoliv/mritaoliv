@@ -58,5 +58,5 @@ Atualmente, estudo **Desenvolvimento Full-Stack** no Senac São Paulo. Estou no 
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mritaoliv?trk=contact-info)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaritaoliveira329@gmail.com)
